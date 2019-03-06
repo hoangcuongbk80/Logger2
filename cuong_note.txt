@@ -1,0 +1,7 @@
+hoang@hoang-XPS-13-9360:~/OSS/Logger2/build$ mkdir build
+hoang@hoang-XPS-13-9360:~/OSS/Logger2/build$ cd build/
+hoang@hoang-XPS-13-9360:~/OSS/Logger2/build$ cmake ../src
+hoang@hoang-XPS-13-9360:~/OSS/Logger2/build$ make -j8
+hoang@hoang-XPS-13-9360:~/OSS/Logger2/build$ ./Logger2
+
+klg file is saved to /home/hoang/Kinect_Logs
